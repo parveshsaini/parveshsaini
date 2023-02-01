@@ -1,11 +1,11 @@
 <h1 align="center">Hi Folks, I'm Parvesh 🎈</h1>
-<h3 align="center">Open Source | DevOps | MERN Stack</h3>
-<img align="right" alt="Coding" width="300"  src="https://media2.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47d9ksipq0e0c1mkog8171qgm2nhu3hpkzl4d3h9tv&rid=giphy.gif&ct=g">
+<h3 align="center">Open Source | MERN Stack</h3>
+<img align="right" alt="Coding" width="250"  src="https://media2.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e47d9ksipq0e0c1mkog8171qgm2nhu3hpkzl4d3h9tv&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=0e75b6&style=flat" alt="parveshsaini" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Web Development & Open Source**
 
