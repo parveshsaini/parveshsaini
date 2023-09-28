@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks, I'm Parvesh 🎈</h1>
-<h3 align="center">Open Source | MEAN Stack</h3>
+<h3 align="center">Open Source | Full Stack</h3>
 <img align="right" alt="Coding" width="250"  src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47x82q65pxl2z77hxs1914obz3qtvtle3hxal70ggn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
