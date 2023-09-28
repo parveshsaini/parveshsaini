@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=0e75b6&style=flat" alt="parveshsaini" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 💬 Ask me about **Web Development & Open Source**
 
