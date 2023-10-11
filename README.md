@@ -3,7 +3,8 @@
 <img align="right" alt="Coding" width="250"  src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47x82q65pxl2z77hxs1914obz3qtvtle3hxal70ggn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=0e75b6&style=flat" alt="parveshsaini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="parveshsaini" /> </p>
+
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
