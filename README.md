@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="parveshsaini" /> </p>
 
 
-- 🌱 I’m currently learning **Redis**
+- 🌱 I’m currently learning **Nginx**
 
 - 💬 Ask me about **Web Development & Open Source**
 
@@ -18,6 +18,6 @@
 
 
 ## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=angular,react,docker,typescript,js,html,css,cpp,tailwind,nodejs,express,mongodb,mysql,git)
+![My Skills](https://skillicons.dev/icons?i=angular,react,docker,typescript,redis,js,cpp,tailwind,nodejs,express,mongodb,postgresql,git)
 
 [![An image of @parveshsaini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parveshsaini)](https://holopin.io/@parveshsaini)
