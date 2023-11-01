@@ -18,6 +18,6 @@
 
 
 ## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=angular,react,docker,typescript,redis,js,cpp,tailwind,nodejs,express,mongodb,postgresql,git)
+![My Skills](https://skillicons.dev/icons?i=angular,react,docker,typescript,redis,js,cpp,tailwind,nodejs,express,mongodb,postgresql,git,jest)
 
 [![An image of @parveshsaini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parveshsaini)](https://holopin.io/@parveshsaini)
