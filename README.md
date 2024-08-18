@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveshsaini&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="parveshsaini" /> </p>
 
 
-- 🌱 I’m currently learning **Kubernetes ☸**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Web Development & System Design**
+- 💬 Ask me about **Web Development, DevOps & System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 
 
 ## Skills 🛠 
-![My Skills](https://skillicons.dev/icons?i=nextjs,angular,react,docker,typescript,redis,js,cpp,tailwind,nodejs,express,mongodb,postgresql,git,jest,graphql)
+![My Skills](https://skillicons.dev/icons?i=nextjs,angular,react,kubernetes,docker,typescript,js,cpp,redis,kafka,tailwind,nodejs,express,mongodb,postgresql,git,jest,graphql,prometheus,grafana)
 
 ## Hacktoberfest'23 🌳
 [![An image of @parveshsaini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parveshsaini)](https://holopin.io/@parveshsaini)
