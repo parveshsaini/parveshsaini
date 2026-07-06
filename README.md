@@ -28,12 +28,12 @@ I build AI agents, automation pipelines, and the infrastructure that makes them 
 
 ## 🌍 Open Source Contributions
 
-- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw)** ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) : Your own personal AI assistant that runs on any OS and any platform.
-- 🔄 **[n8n-io/n8n](https://github.com/n8n-io/n8n)** ![stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social) : Fair-code workflow automation platform with native AI capabilities.
-- 🦥 **[unslothai/unsloth](https://github.com/unslothai/unsloth)** ![stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social) : Faster, memory-efficient fine-tuning and training for open LLMs.
-- 🔔 **[novuhq/novu](https://github.com/novuhq/novu)** ![stars](https://img.shields.io/github/stars/novuhq/novu?style=social) : Open-source communication & notification infrastructure for agents and products.
-- 🧠 **[topoteretes/cognee](https://github.com/topoteretes/cognee)** ![stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social) : Open-source AI memory platform that gives agents long-term memory.
-- 🧰 **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** ![stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=social) : A batteries-included harness for building deep, long-running agents.
+- 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw)**: Personal AI assistant that runs on any OS and any platform.
+- 🔄 **[n8n-io/n8n](https://github.com/n8n-io/n8n)**: Fair-code workflow automation platform with native AI capabilities.
+- 🦥 **[unslothai/unsloth](https://github.com/unslothai/unsloth)**: Faster, memory-efficient fine-tuning and training for open LLMs.
+- 🔔 **[novuhq/novu](https://github.com/novuhq/novu)**: Open-source communication & notification infrastructure for agents and products.
+- 🧠 **[topoteretes/cognee](https://github.com/topoteretes/cognee)**: Open-source AI memory platform that gives agents long-term memory.
+- 🧰 **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)**: A batteries-included harness for building deep, long-running agents.
 
 ---
 
