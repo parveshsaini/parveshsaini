@@ -11,6 +11,7 @@ I build AI agents, the pipelines around them, and the infrastructure that keeps 
 
 - 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw)**: Personal AI assistant that runs on any OS and any platform.
 - 🐳 **[docker/docker-agent](https://github.com/docker/docker-agent)**: Docker's own builder and runtime for containerized AI agents.
+- 🦜 **[langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)**: Framework for building LLM-powered applications.
 - 🧰 **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)**: A batteries-included harness for building deep, long-running agents.
 - 🔄 **[n8n-io/n8n](https://github.com/n8n-io/n8n)**: Fair-code workflow automation platform with native AI capabilities.
 - 🦥 **[unslothai/unsloth](https://github.com/unslothai/unsloth)**: Faster, memory-efficient fine-tuning and training for open LLMs.
@@ -26,7 +27,7 @@ I build AI agents, the pipelines around them, and the infrastructure that keeps 
 - 🖥️ **[AI-OS](https://github.com/parveshsaini/AI-OS)**: A starter kit that turns Claude Code into a personal AI operating system.
 - 🤖 **[personal-assistant](https://github.com/parveshsaini/personal-assistant)**: Voice-driven assistant that reaches across your Google workspace, CRM and Notion.
 - 🐦 **[twitter](https://github.com/parveshsaini/twitter-backend)**: A Twitter clone with real-time chat that scales WebSocket connections across servers using Redis.
-- 🔎 **[agentic_QA_system](https://github.com/parveshsaini/agentic_QA_system)**: Research agent that reasons over your docs and the live web to answer questions with sources attached.
+- 🔎 **[agentic-qa-system](https://github.com/parveshsaini/agentic_QA_system)**: Research agent that reasons over your docs and the live web to answer questions with sources attached.
 - 📢 **[claude-changelog](https://github.com/parveshsaini/claude-changelog)**: A bot that catches every Claude Code release the moment it ships, distills it, and posts it to X.
 - ⚙️ **[multithreaded-server](https://github.com/parveshsaini/multithreaded-server)**: An HTTP server written from scratch in Rust, thread pool and all, for the pleasure of building one.
 - 🔀 **[dynamic-reverse-proxy](https://github.com/parveshsaini/dynamic-reverse-proxy)**: A reverse proxy that conjures containers on demand and routes traffic to them the instant they're alive.
